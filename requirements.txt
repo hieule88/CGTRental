@@ -1,0 +1,15 @@
+pandas
+numpy
+tqdm
+pandas_ta
+statsmodels
+matplotlib
+tqdm
+finta
+django
+django-sitetree
+django-crispy_forms
+cx_oracle
+scikit-learn
+celery==4.4.7
+seaborn
